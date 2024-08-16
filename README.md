@@ -18,5 +18,6 @@ git clone https://github.com/OumaimaBoughdad/Hospital-Management-.git
    and run the application using the command npm start
 
 and that will be all you should be doing and here are some screenshots for the website interfaces 
+![s1](https://github.com/user-attachments/assets/e06f8c6d-081b-4fd1-9d32-db20b24d760f)
 
    
